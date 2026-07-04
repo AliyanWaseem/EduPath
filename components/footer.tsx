@@ -19,7 +19,7 @@ const COUNTRIES = [
   'Turkey',
 ]
 
-const WHATSAPP_NUMBER = '923001234567'
+const WHATSAPP_NUMBER = '923284061852'
 
 export function Footer() {
   return (
@@ -78,7 +78,7 @@ export function Footer() {
                 href="tel:+923001234567"
                 className="transition-colors duration-200 hover:text-white"
               >
-                +92 300 1234567
+                +92 328 4061852
               </a>
             </li>
             <li className="flex items-center gap-2.5">
