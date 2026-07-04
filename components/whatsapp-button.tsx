@@ -1,6 +1,6 @@
 import { MessageCircle } from 'lucide-react'
 
-const WHATSAPP_NUMBER = '923001234567'
+const WHATSAPP_NUMBER = '923284061852'
 const PREFILLED = encodeURIComponent(
   "Hi EduPath Global! I'd like a free consultation about studying abroad.",
 )
